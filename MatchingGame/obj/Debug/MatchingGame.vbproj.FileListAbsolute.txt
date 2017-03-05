@@ -1,0 +1,10 @@
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\obj\Debug\MatchingGame.MatchingGame.resources
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Resources.resources
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\obj\Debug\MatchingGame.vbproj.GenerateResource.Cache
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\bin\Debug\MatchingGame.xml
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\obj\Debug\MatchingGame.xml
+c:\users\ady\documents\visual studio 2012\Projects\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
